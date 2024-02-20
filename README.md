@@ -1,2 +1,2 @@
 # CoinFlip
- CoinFlip App - TripleTen
+ CoinFlip App
